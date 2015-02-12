@@ -1,0 +1,23 @@
+{
+  "name": "development",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.2.28",
+    "bootstrap": "^3.2.0",
+    "angular-animate": "~1.2.28",
+    "angular-cookies": "~1.2.28",
+    "angular-resource": "~1.2.28",
+    "angular-route": "~1.2.28",
+    "angular-sanitize": "~1.2.28",
+    "angular-touch": "~1.2.28",
+    "angular-bootstrap": "~0.12.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.28"
+  },
+  "appPath": "app/angular",
+  "moduleName": "developmentApp",
+  "resolutions": {
+    "angular": "1.2.28"
+  }
+}
