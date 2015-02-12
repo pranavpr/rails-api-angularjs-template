@@ -28,3 +28,6 @@ Run `grunt` for building the javascript and CSS files. The build javascript and 
 ## Testing
 
 Running `grunt test` will run the unit tests with karma. `karma.conf.js` is present in `test` directory.
+
+## Starting
+Boot the application using `rails s`.
