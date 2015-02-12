@@ -7,6 +7,8 @@ This template can serve as a starting point for [Rails API](https://github.com/r
 2. npm
 3. grunt
 4. bower
+5. yeoman
+6. yo angular generator
 
 ## Getting started
 
